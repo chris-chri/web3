@@ -1,0 +1,492 @@
+.header{
+    background-color:blue;
+    padding: 20px;
+    text-align: center;
+    color:white;
+}
+
+.body{
+    margin: 0;
+}
+
+.topnav{
+    overflow:hidden;
+    background-color: beige;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color:blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-emphasis: none;
+
+}
+.topnav a:hover {
+    color:aqua
+
+}
+.mac{
+  margin-left: 5px;
+
+}
+.mac3{
+  display: block;
+    width: 400px;
+    background-color: beige;
+    border-radius: 25px;
+    padding: 5px;
+    color: rgb(139, 69, 19);
+}
+.mac4{
+  position: absolute;
+  top: 8cm;
+  margin-left: 450px;
+  width: 200px;
+  background-color: beige;
+  border-radius: 25px;
+  padding: 5px;}
+
+.iphone_15{
+    border-radius: 25px;
+    background-color: #f5f5dc;
+    padding: 20px;
+    width: 500;
+    padding-left: -40px;
+    margin-bottom: 40px;
+   margin-right: 1200px;
+    margin-top: 20px;
+}
+.text{
+    position: absolute;
+    top:30%;
+    left: 200px;
+    width: 500px;
+    color:rgb(139,69,19) ;
+    margin-left: 1000px;
+ background-color: #f5f5dc;
+ border-radius: 25px;
+
+}
+.mac5{
+  position: absolute;
+  top: 5cm;
+  margin-left: 1000px;
+}
+.mac6{
+  position: absolute;
+    top: 11cm;
+    width: 400px;
+    background-color: beige;
+    border-radius: 25px;
+    padding: 5px;
+    margin-left: 980px;
+    color: rgb(139, 69, 19);
+}
+.mac7{
+  position: absolute;
+  top: 8cm;
+  margin-left: 1450px;
+  width: 200px;
+  background-color: beige;
+  border-radius: 25px;
+  padding: 5px;
+}
+.mac8{
+  position: absolute;
+  top: 15cm;
+  margin-left: 500px;
+  background-color: greenyellow;
+  border-radius: 30px;
+  width: 170px;
+  text-align: center;
+}
+.mac9{
+  position: absolute;
+  top: 15cm;
+  margin-left: 1500px;
+  background-color: greenyellow;
+  border-radius: 30px;
+  width: 170px;
+  text-align: center;
+
+}
+.apple{
+    display:block;
+font-size:24px;
+font-weight:700;
+}
+
+.text p{
+    padding: 14px;
+    font-size: 20px;
+}
+
+.sen{
+    position: absolute;
+    right:300px;
+    left: 10px;
+    top: 600px;
+    margin-left: 1200px;
+background-color:#f5f5dc;
+color:rgb(139,69,19) ;
+padding: 15px;
+padding-top: 10px;
+padding-bottom: 5px;
+width: 530px;
+border-radius: 25px;
+}
+.sen p{
+    font-size: 24px;
+   
+   }
+   .leftcolum{
+       float: left;
+       width: 75%;
+   }
+   .rightcolumn {
+       float: left;
+       width: 25%;
+       background-color: #f1f1f1;
+       padding-left: 20px;
+     }
+   
+   .row::after{
+       content: "";
+       display: table;
+       clear: both;
+   }
+   .card {
+       text-align: center;
+   
+     }
+     .des{
+        position:absolute;
+        top: 520px;
+        font-size: 24px;
+        margin-left: 1390px;
+        
+     }
+     .des2{
+        position: absolute;
+        top: 200px;
+        margin-left: 1380px;
+        font-size: 24px;
+        font-weight: 500;
+       
+     }
+
+
+     .banner3{
+        background-color: black;
+        text-align: center;
+        font-size: 24px;
+        height: 400px;
+        width: 1920px;
+
+     }
+     .banner3 p{
+    
+        color: white;
+     }
+     .banner3 a{
+        background-color: #f1f1f1;
+        padding:20px;
+     }
+  .Agif{
+    position: absolute;
+    top: 34.6%;
+    right: 44.1%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+    margin-left: 900px;
+    margin-bottom: 80px;
+
+  }
+
+.Sgif{
+    position: absolute;
+    top: 10px;
+    margin-top: 660px;
+    margin-left: 800px;
+
+    
+}
+.footer{
+ background-color: #f5f5dc;
+ padding: 10px;
+ height: 150px;
+}
+.footer1{
+    background-color: black;
+
+}
+.footer1 p{
+    color: white;
+}
+.name10{
+  position: absolute;
+  margin-left: 320px;
+  color:rgb(139,69,19);
+  font-size: medium;
+}
+.name11{
+  position: absolute;
+  top: 4.6cm;
+  margin-left: 1300px;
+  color:rgb(139,69,19) ;
+  font-size: medium;
+}
+.iphone_x{
+  margin-left: 5px;
+
+}
+.s10{
+  position: absolute;
+  top: 19.8cm;
+  margin-left: 800px;
+
+}
+
+.des3{
+ 
+  display: block;
+  width: 400px;
+  background-color: beige;
+border-radius: 25px;
+padding: 5px;
+color:rgb(139,69,19);
+}
+.text67{
+  position: absolute;
+top: 25cm;
+margin-left: 500px;
+  width: 170px;
+  height: 50px;
+  background-color: red;
+  text-align: center;
+  border-radius: 25px;
+}
+.text677{
+  position: absolute;
+top: 25cm;
+margin-left: 1300px;
+  width: 170px;
+  height: 50px;
+  background-color: red;
+  text-align: center;
+  border-radius: 25px;
+}
+.des4{
+  position: absolute;
+  top:8cm;
+    margin-left: 450px;
+  width: 200px;
+  background-color: beige;
+  border-radius: 25px;
+  padding: 5px;
+}
+.price2{
+  position: absolute;
+  top:8cm;
+    margin-left: 1450px;
+  width: 200px;
+  background-color: beige;
+  border-radius: 25px;
+  padding: 5px;
+
+}
+.des5{
+  position: absolute;
+  top: 14.3cm;
+  width: 400px;
+  background-color: beige;
+  border-radius: 25px;
+  padding: 5px;
+  margin-left: 980px;
+  color:rgb(139,69,19) ;
+}
+
+
+.off{
+  position:absolute;
+  top: 6cm;
+  left: 2cm;
+  margin-left: 580px;
+
+}
+.off1{
+  position:absolute;
+  top: 6cm;
+  left: 3cm;
+  margin-left: 1520px;
+}
+.iphone_xsmax{
+  position: absolute;
+  top: 5cm;
+  margin-left: 1000px;
+}
+.s7{ 
+  position: absolute;
+  top: 21cm;
+}
+.chris{
+  position: absolute;
+  top:28cm;
+  margin-left: 500px;
+  background-color: beige;
+  padding:10px;
+  width: 300px;
+  border-radius: 25px;
+}
+.chris1{
+  position: absolute;
+  top:28cm;
+  margin-left: 1270px;
+  background-color: beige;
+  padding:10px;
+  width: 300px;
+  border-radius: 25px;
+}
+
+.Buy{
+  position: absolute;
+  top:15cm;
+  margin-left: 500px;
+  background-color:greenyellow;
+  border-radius: 30px;
+  width: 170px;
+  text-align: center;
+}
+.Buy1{
+  position: absolute;
+  top:15cm;
+  margin-left: 1500px;
+  background-color:greenyellow;
+  border-radius: 30px;
+  width: 170px;
+  text-align: center;
+}
+
+.Coming{
+  padding: 8px;
+  color:rgb(139,69,19);
+  font-size: large;
+  text-align: center;
+  margin-bottom: 500px;
+}
+.subnav {
+    float: left;
+    overflow: hidden;
+  }
+ 
+
+  .subnav .subnavbtn {
+    font-size: 16px;
+    border: none;
+    color: blue;
+    outline: none;
+    padding: 14px 16px;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .subnav:hover .subnavbtn {
+    background-color:rgb(159, 140, 118);
+  }
+  
+  .subnav-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color:rgb(159, 140, 118);
+    width: 100%;
+    z-index: 1;
+    color:aqua;
+  }
+
+  .subnav-content a {
+    float: left;
+    text-decoration: none;
+    background-color:rgb(159, 140, 118);
+   color: blue;
+  }
+  
+
+  .subnav-content a:hover {
+    background-color:rgb(159, 140, 118);
+    color:blue;
+  }
+  
+
+  .subnav:hover .subnav-content {
+    display: block;
+  }
+
+  .form-container {
+    background-color: #f4f4f4;
+    padding: 30px;
+    width: 90%;
+    max-width: 400px;
+    margin: 40px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+ 
+.form-container form {
+    display: flex;
+    flex-direction: column;
+}
+ 
+.form-container label {
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #333;
+}
+ 
+.form-container input[type="text"],
+.form-container input[type="email"],
+.form-container textarea {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+}
+ 
+.form-container textarea {
+    height: 120px;
+    resize: none;
+}
+ 
+.form-container button {
+    padding: 10px 20px;
+    background-color: #0055cc;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+ 
+.form-container button:hover {
+    background-color: #003399;
+}
+
+
+table {
+  width: 100%; 
+  border-collapse: collapse; 
+  margin: 0 auto; 
+}
+
+th, td {
+  border: 1px solid #ccc; 
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #004d99;
+  color: white;
+}
